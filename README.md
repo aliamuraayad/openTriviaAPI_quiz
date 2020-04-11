@@ -4,7 +4,9 @@ A simple music trivia quiz with the Open Trivia Database API!!!!!
 
 **Link to project:** https://alia-opentriviadb-quiz.netlify.com/
 
-![alt tag](quiz.png)
+![alt tag](loader.png)
+![alt tag](quizOTDB.png)
+
 
 ## How It's Made:
 
