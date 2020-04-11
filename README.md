@@ -27,7 +27,7 @@ I learned a very simple and clean way to use the sort() method in a real-world a
 ## Examples:
 Take a look at these couple examples of vanilla JavaScript efficiency that I have in my own portfolio:
 
-**Check out this same quiz with the Open Trivia Database API:** https://github.com/aliaabdulahi/openTriviaAPI_quiz
+**Check out this same quiz with my own data being fetched from JSON:** https://github.com/aliaabdulahi/openTriviaAPI_quiz
 
 **Object-Oriented Library Assister:**  https://github.com/aliaabdulahi/OOP-Library-Assister
 
